@@ -35,12 +35,7 @@ Here's a structured and comprehensive README for your project based on the provi
 
 ---
 
-## Demo
-Here’s a quick preview of the real-time object detection in action:
 
-![Demo GIF](https://via.placeholder.com/600x300?text=Add+Your+Demo+GIF+Here)
-
----
 
 ## Installation
 
@@ -86,14 +81,12 @@ Follow these steps to set up the project:
 ---
 
 ## Results
-Here are some example outputs from the model:
+Here are some example output from the model:
 
 - **Image Detection**  
   ![Example Image](https://via.placeholder.com/600x400?text=Add+Example+Image+Here)
 
-- **Real-Time Video Detection**  
-  [Watch the video demo](https://via.placeholder.com/600x300?text=Add+Video+Link+Here)
-
+  
 ---
 
 ## Contributing
