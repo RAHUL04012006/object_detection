@@ -23,7 +23,7 @@ Here's a structured and comprehensive README for your project based on the provi
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -117,9 +117,3 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README further based on your project's specific details or add any additional sections that you feel are necessary!
