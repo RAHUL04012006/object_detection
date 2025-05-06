@@ -4,13 +4,12 @@ This project implements real-time object detection using the powerful YOLOv3 (Yo
 
 ---
 
+![Image](https://github.com/user-attachments/assets/ccdc5d30-1e6a-4416-a92d-e74ab9357912)
 
-
+---
 ### 🔗 Download YOLOv3 Weights
 [Download yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)  
 Place it in the project root folder.
-
-Here's a structured and comprehensive README for your project based on the provided details:
 
 ---
 
@@ -83,8 +82,7 @@ Follow these steps to set up the project:
 ## Results
 Here are some example output from the model:
 
-- **Image Detection**  
-  ![Example Image](https://via.placeholder.com/600x400?text=Add+Example+Image+Here)
+![Image](https://github.com/user-attachments/assets/ccdc5d30-1e6a-4416-a92d-e74ab9357912)
 
   
 ---
