@@ -79,12 +79,7 @@ Follow these steps to set up the project:
 
 ---
 
-## Results
-Here are some example output from the model:
 
-![Image](https://github.com/user-attachments/assets/ccdc5d30-1e6a-4416-a92d-e74ab9357912)
-
-  
 ---
 
 ## Contributing
